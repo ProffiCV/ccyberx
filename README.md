@@ -7,7 +7,7 @@ it was designed for Windows XP (tested and working perfectly)
 The system helped people manage Internet Public Usage (Controlling computer time usage, Megabytes downloaded etc).
 
 
-Its composed with 3 components
+Composed with 3 components
 Client (cCyberX) - Client Control
 cCard-X (Card generator and manager)
 sServer-X (Server - Remote control for clients and usage details)
