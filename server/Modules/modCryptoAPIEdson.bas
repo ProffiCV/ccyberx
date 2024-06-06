@@ -243,21 +243,6 @@ ret& = ret& + Asc(Mid(vl, i, 1))
 Next
 getSum = ret
 End Function
-'VENDIDO
-'Santo Antão
-'Cyber Interfone        : 15.000
-'Cyber Maky             : 15.000
-'Mindelo
-'Cyber Gigatel          : 15.000
-'Cyber Impena           : 15.000
-'Cyber Jimms            : 15.000
-'Cyber Furnalha*        : 15.000
-'Cyber Compucv          : 15.000
-'Cyber Ribeira Julião   : 15.000
-'Praia
-'Cyber Apostolica       : 15.000
-'Cyber Church           : 15.000
-'Cyber Other            : 15.000
 
 
 
