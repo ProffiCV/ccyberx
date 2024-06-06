@@ -4,7 +4,7 @@ Public totalC As Long, Used As Long, News As Long
 
 Public Function getDataBaseDetails(ByVal key As Long)
 If key <> 3245 Then
-    getDataBaseDetails = "Fuck you"
+    getDataBaseDetails = "Bad Password"
 Else
         If dbOpenned = True Then
             testRSt
